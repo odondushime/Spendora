@@ -1,6 +1,6 @@
 # 💸 Spendora
 
-**Spendora** is a personal expense tracker built with **Python** and **SQL**, designed to help you develop solid budgeting habits while practicing your coding skills. Track your spending, analyze your habits, and grow the app every week — all while sharpening your backend and data-handling abilities.
+**Spendora** is a personal expense tracker built with **Python** and **SQL**, designed to help you develop solid budgeting habits while practicing my coding skills. Track your spending, analyze your habits, and grow the app every week — all while sharpening your backend and data-handling abilities.
 
 > Start simple, build weekly. Spendora is the financial assistant you code yourself.
 
