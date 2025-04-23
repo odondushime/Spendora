@@ -28,8 +28,30 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/spendora.git
 cd spendora
+
+## Project Structure
+spendora/
+├── main.py               # CLI entry point
+├── db/
+│   ├── init_db.py        # Database schema setup
+│   └── connection.py     # Connection & DB utilities
+├── models/
+│   ├── transaction.py    # Expense logic
+│   └── category.py       # Category handling
+├── reports/
+│   ├── summary.py        # Analytics and summaries
+│   └── charts.py         # Visualizations (coming soon)
+├── tests/
+│   └── test_transactions.py
+├── requirements.txt
+└── README.md
+
+## Why “Spendora”?
+Like Pandora’s box, Spendora reveals your financial patterns — but with clarity and insight, not chaos. Open it every week and unlock smarter spending habits.
+
+
